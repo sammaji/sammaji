@@ -34,3 +34,11 @@ Hi, I am Samyabrata Maji.
 
 ## Contact:
 E-mail: samyabratamaji334@gmail.com
+
+## Stats:
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyabrata-maji&show_icons=true&locale=en&layout=compact" alt="samyabrata-maji" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyabrata-maji&show_icons=true&locale=en" alt="samyabrata-maji" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyabrata-maji&" alt="samyabrata-maji" /></p>
