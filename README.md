@@ -5,7 +5,7 @@
 
 Hi, I am Samyabrata Maji.
 - Student of Computer Science (First Year)
-- Interested in Machine Learning
+- Interested in DevOps
 - Currently learning Data Structures and Algorithms
 
 ### Languages:
