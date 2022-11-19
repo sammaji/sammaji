@@ -5,7 +5,7 @@
 
 Hi, I am Samyabrata Maji.
 - Student of Computer Science (First Year)
-- Interested in Machine Learning
+- Interested in DevOps
 - Currently learning Data Structures and Algorithms
 
 ### Languages:
@@ -37,7 +37,7 @@ E-mail: samyabratamaji334@gmail.com
 
 ## Stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyabrata-maji&show_icons=true&locale=en&layout=compact" alt="samyabrata-maji" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyabrata-maji&show_icons=true&locale=en&layout=compact?hide=css,html" alt="samyabrata-maji" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyabrata-maji&show_icons=true&locale=en" alt="samyabrata-maji" /></p>
 
