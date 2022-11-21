@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
-![GitHub User's stars](https://img.shields.io/github/stars/samyabrata-maji?style=social)  
-![Twitter Follow](https://img.shields.io/twitter/follow/sammaji15?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/samyabrata-maji?style=flat-square)  
+![Twitter Follow](https://img.shields.io/twitter/follow/sammaji15?style=flat-square)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samyabrata-maji&style=flat-square)
 
