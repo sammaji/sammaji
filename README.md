@@ -3,6 +3,8 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/samyabrata-maji?style=social)  
 ![Twitter Follow](https://img.shields.io/twitter/follow/sammaji15?style=social)
 
+![Profile Views](https://komarev.com/ghpvc/?username=samyabrata-maji&style=flat-square)
+
 Hi, I am Samyabrata Maji.
 - Student of Computer Science (First Year)
 - Interested in DevOps
