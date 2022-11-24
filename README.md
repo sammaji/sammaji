@@ -7,8 +7,8 @@
 
 Hi, I am Samyabrata Maji.
 - Student of Computer Science (First Year)
-- Interested in DevOps
 - Currently learning Data Structures and Algorithms
+- Interested in DevOps
 
 ### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
