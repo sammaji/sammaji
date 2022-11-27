@@ -8,6 +8,7 @@
 Hi, I am Samyabrata Maji.
 - Student of Computer Science (First Year)
 - Currently learning Data Structures and Algorithms
+- Also learning Pandas
 - Interested in DevOps
 
 ### Languages:
