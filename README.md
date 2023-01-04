@@ -7,9 +7,8 @@
 
 Hi, I am Samyabrata Maji.
 - Student of Computer Science (First Year)
-- Currently learning Data Structures and Algorithms
-- Also learning Pandas
-- Interested in DevOps
+- Learing Web Development
+- Interested in Open Source
 
 ### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
