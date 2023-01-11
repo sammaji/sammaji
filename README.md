@@ -40,7 +40,8 @@ Hi, I am Samyabrata Maji.
 E-mail: samyabratamaji334@gmail.com
 
 ## Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyabrata-maji&show_icons=true&locale=en&layout=compact&hide=css,html" alt="samyabrata-maji" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyabrata-maji&show_icons=true&locale=en&layout=compact&hide=css,html" alt="samyabrata-maji" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyabrata-maji&show_icons=true&locale=en&layout=compact" alt="samyabrata-maji" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyabrata-maji&show_icons=true&locale=en" alt="samyabrata-maji" /></p>
 
