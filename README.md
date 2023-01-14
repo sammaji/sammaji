@@ -2,7 +2,6 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/samyabrata-maji?style=flat-square)  
 ![Twitter Follow](https://img.shields.io/twitter/follow/sammaji15?style=flat-square)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=samyabrata-maji&style=flat-square)
 
 Hi, I am Samyabrata Maji.
@@ -22,9 +21,9 @@ Hi, I am Samyabrata Maji.
 
 ### Frameworks and Libraries:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 <!-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) -->
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Applications:
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
@@ -41,8 +40,8 @@ E-mail: samyabratamaji334@gmail.com
 
 ## Stats:
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyabrata-maji&show_icons=true&locale=en&layout=compact&hide=css,html" alt="samyabrata-maji" /></p> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyabrata-maji&show_icons=true&locale=en&layout=compact" alt="samyabrata-maji" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyabrata-maji&theme=dark&show_icons=true&locale=en&layout=compact&" alt="samyabrata-maji" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyabrata-maji&show_icons=true&locale=en" alt="samyabrata-maji" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyabrata-maji&theme=dark&show_icons=true&locale=en" alt="samyabrata-maji" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyabrata-maji&" alt="samyabrata-maji" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyabrata-maji&theme=dark" alt="samyabrata-maji" /></p>
