@@ -11,15 +11,7 @@ Hi, I am Samyabrata Maji.
 - Interested in Open Source
 
 ### Languages:
-<style>
-    #imgjava {
-        background:red
-    }
-    #imgjava:hover {
-        background: yellow
-    }
-</style>
-<a href="#"><img id="imgjava" height=36 style="background:red" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+<a href="#"><img height=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
