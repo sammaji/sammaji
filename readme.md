@@ -16,20 +16,11 @@ Hi, I am Samyabrata Maji.
 
 <p>&nbsp;</p>
 
-#
-
-<p>&nbsp;</p>
-
 ## **Tech Stack**
 
 Here's a list of all the technologies I have used. The ones I use the most are listed first.
 
-###### &nbsp;
-
 ### **1. Languages:**
-
-###### &nbsp;
-
 <p>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />&ensp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />&ensp;
@@ -44,8 +35,6 @@ Here's a list of all the technologies I have used. The ones I use the most are l
 ###### &nbsp;
 
 ### **2. Frameworks and Libraries:**
-
-###### &nbsp;
 
 <p>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&ensp;
@@ -64,9 +53,7 @@ Here's a list of all the technologies I have used. The ones I use the most are l
 
 ###### &nbsp;
 
-### **03. Softwares:**
-
-###### &nbsp;
+### **3. Softwares:**
 
 <p>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&ensp;
@@ -85,10 +72,7 @@ Here's a list of all the technologies I have used. The ones I use the most are l
 
 ###### &nbsp;
 
-### **03. Others:**
-
-###### &nbsp;
-
+### **4. Others:**
 <p>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&ensp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />&ensp;
@@ -101,15 +85,9 @@ Here's a list of all the technologies I have used. The ones I use the most are l
 
 <p>&nbsp;</p>
 
-#
-
-<p>&nbsp;</p>
-
-## **Contact**
+## **Contact Me**
 
 If you want help reguarding something, feel free to reach out to me.
-
-###### &nbsp;
 
 <p>
 <a src="https://twitter.com/sammaji15" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/twitter-circled--v1.png"/></a>&ensp;
@@ -122,19 +100,9 @@ If you want help reguarding something, feel free to reach out to me.
 
 <p>&nbsp;</p>
 
-#
-
-<p>&nbsp;</p>
-
 ## **Github Stats**
-
-###### &nbsp;
-
 <p><img src="https://img.shields.io/github/stars/samyabrata-maji?style=social"/>&emsp;<img src="https://img.shields.io/github/followers/samyabrata-maji?style=social"/></p>
 <p>
-
-###### &nbsp;
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyabrata-maji&langs_count=10&layout=compact&theme=dark" alt="samyabrata-maji" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyabrata-maji&theme=dark&show_icons=true&locale=en" alt="samyabrata-maji" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyabrata-maji&theme=dark" alt="samyabrata-maji" /></p>
