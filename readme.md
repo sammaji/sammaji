@@ -12,7 +12,7 @@ Hi, I am Samyabrata Maji.
 
 - ❓Ask me anything about **_Open Source_** and **_Web Development_**.
 
-- 📨 How to **_reach_** me 👉 [**_click here_**](#contact-me)
+- 📨 How to **_reach_** me 👉 [**_click here_**]()
 
 <p>&nbsp;</p>
 
@@ -88,12 +88,12 @@ Here's a list of all the technologies I have used. The ones I use the most are l
 If you want help reguarding something, feel free to reach out to me.
 
 <p>
-<a src="https://twitter.com/sammaji15" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/twitter-circled--v1.png"/></a>&ensp;
-<a src="https://sammaji.hashnode.dev" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/hashnode.png"/></a>&ensp;
-<a src="https://twitter.com/sammaji15" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/gmail--v1.png"/></a>&ensp;
-<a src="https://twitter.com/sammaji15" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/discord--v2.png"/></a>&ensp;
-<a src="https://twitter.com/sammaji15" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/fluency/48/null/instagram-new.png"/></a>&ensp;
-<a src="https://linkfree.eddiehub.io/samyabrata-maji" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/fluency/48/null/internet.png"/></a>
+<a href="https://twitter.com/sammaji15" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/twitter-circled--v1.png"/></a>&ensp;
+<a href="https://sammaji.hashnode.dev" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/hashnode.png"/></a>&ensp;
+<a href="https://mailto:abc@example.com?body=Hey%20Samyabrata," target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/gmail--v1.png"/></a>&ensp;
+<a href="https://discord.com/users/SamMaji#0238" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/discord--v2.png"/></a>&ensp;
+<a href="https://instagram.com/sammaji15" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/fluency/48/null/instagram-new.png"/></a>&ensp;
+<a href="https://linkfree.eddiehub.io/samyabrata-maji" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/fluency/48/null/internet.png"/></a>
 </p>
 
 <p>&nbsp;</p>
