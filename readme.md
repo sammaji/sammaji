@@ -114,3 +114,9 @@ If you want help reguarding something, feel free to reach out to me.
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyabrata-maji&theme=dark&show_icons=true&locale=en" alt="samyabrata-maji" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyabrata-maji&theme=dark" alt="samyabrata-maji" /></p>
 </details>
+
+<p>&nbsp;</p>
+
+## Latest Blogs
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:START -->
