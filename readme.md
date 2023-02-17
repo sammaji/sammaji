@@ -98,10 +98,19 @@ If you want help reguarding something, feel free to reach out to me.
 
 <p>&nbsp;</p>
 
-## **Github Stats**
+<!-- Github STATS -->
+<!-- ## **Github Stats**
 <p><img src="https://komarev.com/ghpvc/?username=samyabrata-maji&style=social"/>&ensp;</p>
 <p><img src="https://img.shields.io/github/stars/samyabrata-maji?style=social"/>&ensp;<img src="https://img.shields.io/github/followers/samyabrata-maji?style=social"/></p>
 <p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyabrata-maji&langs_count=10&layout=compact&theme=dark" alt="samyabrata-maji" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyabrata-maji&theme=dark&show_icons=true&locale=en" alt="samyabrata-maji" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyabrata-maji&theme=dark" alt="samyabrata-maji" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyabrata-maji&theme=dark" alt="samyabrata-maji" /></p> -->
+<details>
+  <summary><h2>Github Stats</h2></summary>
+  <p><img src="https://komarev.com/ghpvc/?username=samyabrata-maji&style=social"/>&ensp;</p>
+  <p><img src="https://img.shields.io/github/stars/samyabrata-maji?style=social"/>&ensp;<img src="https://img.shields.io/github/followers/samyabrata-maji?style=social"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyabrata-maji&langs_count=10&layout=compact&theme=dark" alt="samyabrata-maji" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyabrata-maji&theme=dark&show_icons=true&locale=en" alt="samyabrata-maji" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyabrata-maji&theme=dark" alt="samyabrata-maji" /></p>
+</details>
