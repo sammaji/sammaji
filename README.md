@@ -125,11 +125,11 @@ If you want help reguarding something, feel free to reach out to me.
 <br/> If you're a developer who's looking for a faster, simpler and more efficient way to build web applications, then Vite might be just what you need.
 In this blog post, we'll learn to use Vite, and how it can help you build your web applications more qu... </p> <br/> <br/>
 <p align="left">
+
+<a href="https://sammaji.hashnode.dev//discover-the-top-5-news-apps-and-sites-for-developers" title="Discover the Top 5 News Apps and Sites for Developers"><strong>Discover the Top 5 News Apps and Sites for Developers</strong></a>
+<br/> As a developer, staying up-to-date with the latest tech news and trends is essential. Fortunately, there are many news apps and websites out there that can help you stay informed. In this blog, we'll introduce you to the top 5 news apps and sites for... </p> <br/> <br/>
+<p align="left">
 <a href="https://sammaji.hashnode.dev//introduction-to-tailwind" title="Introduction to Tailwind"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676644860220/d616a3bf-15d6-4c86-89a5-803b8578104c.png" alt="Introduction to Tailwind" width="250px" align="left" /></a>
 <a href="https://sammaji.hashnode.dev//introduction-to-tailwind" title="Introduction to Tailwind"><strong>Introduction to Tailwind</strong></a>
 <br/> Are you tired of writing CSS from scratch and spending hours tinkering with styles? Do you want to speed up your web development process without sacrificing customization? Look no further than Tailwind, the utility-first CSS framework that streamline... </p> <br/> <br/>
-<p align="left">
-<a href="https://sammaji.hashnode.dev//a-short-introduction-to-react" title="A Short Introduction to React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676278903398/2597f58a-f644-40de-91d9-51e3203e4024.png" alt="A Short Introduction to React" width="250px" align="left" /></a>
-<a href="https://sammaji.hashnode.dev//a-short-introduction-to-react" title="A Short Introduction to React"><strong>A Short Introduction to React</strong></a>
-<br/> React is a JavaScript library for building user interfaces. It is developed and maintained by Facebook, and is widely used for building single-page applications and mobile apps. React allows developers to build reusable UI components, manage the stat... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
