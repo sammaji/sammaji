@@ -8,7 +8,7 @@ Hi, I am Samyabrata Maji.
 
 - ✍️ Student of **_Computer Science_** at Maulana Abul Kalam University of Technology, West Bengal
 
-- 🔭 Currently learing **_Docker_**
+- 🔭 Currently learing **_PostgreSQL_**
 
 - ❓Ask me anything about **_Open Source_** and **_Web Development_**.
 
