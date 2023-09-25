@@ -122,16 +122,16 @@ If you want help reguarding something, feel free to reach out to me.
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://sammaji.hashnode.dev//vite-the-fast-simple-and-efficient-build-tool-for-web-developers" title="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677410821617/44177c26-8010-4cee-800a-466390c86d83.png" alt="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers" width="250px" align="left" /></a>
-<a href="https://sammaji.hashnode.dev//vite-the-fast-simple-and-efficient-build-tool-for-web-developers" title="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers"><strong>Vite: The Fast, Simple, and Efficient Build Tool for Web Developers</strong></a>
-<br/> If you're a developer who's looking for a faster, simpler and more efficient way to build web applications, then Vite might be just what you need.
-In this blog post, we'll learn to use Vite, and how it can help you build your web applications more qu... </p> <br/> <br/>
-<p align="left">
 <a href="https://sammaji.hashnode.dev//detailed-introduction-to-prisma-orm" title="Detailed Introduction To Prisma ORM"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695624644455/31ed5d49-a9f8-4091-a889-4f7a40319dbb.png" alt="Detailed Introduction To Prisma ORM" width="250px" align="left" /></a>
 <a href="https://sammaji.hashnode.dev//detailed-introduction-to-prisma-orm" title="Detailed Introduction To Prisma ORM"><strong>Detailed Introduction To Prisma ORM</strong></a>
 <br/> Prisma is an open-source object-relational mapper (ORM) tool for Node.js and TypeScript. In this article, we will cover the basics of Prisma and understand how it works.
 What is an ORM?
 Object Relational Mappings or ORMs provide a high-level abstract... </p> <br/> <br/>
+<p align="left">
+<a href="https://sammaji.hashnode.dev//vite-the-fast-simple-and-efficient-build-tool-for-web-developers" title="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677410821617/44177c26-8010-4cee-800a-466390c86d83.png" alt="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers" width="250px" align="left" /></a>
+<a href="https://sammaji.hashnode.dev//vite-the-fast-simple-and-efficient-build-tool-for-web-developers" title="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers"><strong>Vite: The Fast, Simple, and Efficient Build Tool for Web Developers</strong></a>
+<br/> If you're a developer who's looking for a faster, simpler and more efficient way to build web applications, then Vite might be just what you need.
+In this blog post, we'll learn to use Vite, and how it can help you build your web applications more qu... </p> <br/> <br/>
 <p align="left">
 <a href="https://sammaji.hashnode.dev//introduction-to-tailwind" title="Introduction to Tailwind"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676644860220/d616a3bf-15d6-4c86-89a5-803b8578104c.png" alt="Introduction to Tailwind" width="250px" align="left" /></a>
 <a href="https://sammaji.hashnode.dev//introduction-to-tailwind" title="Introduction to Tailwind"><strong>Introduction to Tailwind</strong></a>
