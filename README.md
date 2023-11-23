@@ -137,3 +137,6 @@ In this blog post, we'll learn to use Vite, and how it can help you build your w
 <a href="https://sammaji.hashnode.dev//introduction-to-tailwind" title="Introduction to Tailwind"><strong>Introduction to Tailwind</strong></a>
 <br/> Are you tired of writing CSS from scratch and spending hours tinkering with styles? Do you want to speed up your web development process without sacrificing customization? Look no further than Tailwind, the utility-first CSS framework that streamline... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
+
+## Thank you
+<a href="https://www.buymeacoffee.com/sammaji15" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
