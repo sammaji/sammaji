@@ -122,6 +122,11 @@ If you want help reguarding something, feel free to reach out to me.
 ## Latest Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sammaji.hashnode.dev//beginners-guide-to-monorepos-and-turborepo" title="Beginner's guide to monorepos and turborepo."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702121624750/d13d1d57-87f2-42e8-af76-466d8943f947.png" alt="Beginner's guide to monorepos and turborepo." width="250px" align="left" /></a>
+<a href="https://sammaji.hashnode.dev//beginners-guide-to-monorepos-and-turborepo" title="Beginner's guide to monorepos and turborepo."><strong>Beginner's guide to monorepos and turborepo.</strong></a>
+<br/> In this article we will look at how to manage monorepos using turbo repo.
+Monolithic repositories or monorepos are code bases where multiple projects are stored in a single place. Code can be shared between multiple projects and versioned separately.... </p> <br/> <br/>
+<p align="left">
 <a href="https://sammaji.hashnode.dev//detailed-introduction-to-prisma-orm" title="Detailed Introduction To Prisma ORM"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695624644455/31ed5d49-a9f8-4091-a889-4f7a40319dbb.png" alt="Detailed Introduction To Prisma ORM" width="250px" align="left" /></a>
 <a href="https://sammaji.hashnode.dev//detailed-introduction-to-prisma-orm" title="Detailed Introduction To Prisma ORM"><strong>Detailed Introduction To Prisma ORM</strong></a>
 <br/> Prisma is an open-source object-relational mapper (ORM) tool for Node.js and TypeScript. In this article, we will cover the basics of Prisma and understand how it works.
@@ -132,10 +137,6 @@ Object Relational Mappings or ORMs provide a high-level abstract... </p> <br/> <
 <a href="https://sammaji.hashnode.dev//vite-the-fast-simple-and-efficient-build-tool-for-web-developers" title="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers"><strong>Vite: The Fast, Simple, and Efficient Build Tool for Web Developers</strong></a>
 <br/> If you're a developer who's looking for a faster, simpler and more efficient way to build web applications, then Vite might be just what you need.
 In this blog post, we'll learn to use Vite, and how it can help you build your web applications more qu... </p> <br/> <br/>
-<p align="left">
-<a href="https://sammaji.hashnode.dev//introduction-to-tailwind" title="Introduction to Tailwind"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676644860220/d616a3bf-15d6-4c86-89a5-803b8578104c.png" alt="Introduction to Tailwind" width="250px" align="left" /></a>
-<a href="https://sammaji.hashnode.dev//introduction-to-tailwind" title="Introduction to Tailwind"><strong>Introduction to Tailwind</strong></a>
-<br/> Are you tired of writing CSS from scratch and spending hours tinkering with styles? Do you want to speed up your web development process without sacrificing customization? Look no further than Tailwind, the utility-first CSS framework that streamline... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Thank you
