@@ -100,19 +100,19 @@ If you want help reguarding something, feel free to reach out to me.
 
 <!-- Github STATS -->
 <!-- ## **Github Stats**
-<p><img src="https://komarev.com/ghpvc/?username=samyabrata-maji&style=social"/>&ensp;</p>
-<p><img src="https://img.shields.io/github/stars/samyabrata-maji?style=social"/>&ensp;<img src="https://img.shields.io/github/followers/samyabrata-maji?style=social"/></p>
+<p><img src="https://komarev.com/ghpvc/?username=sammaji&style=social"/>&ensp;</p>
+<p><img src="https://img.shields.io/github/stars/sammaji?style=social"/>&ensp;<img src="https://img.shields.io/github/followers/sammaji?style=social"/></p>
 <p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyabrata-maji&langs_count=10&layout=compact&theme=dark" alt="samyabrata-maji" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyabrata-maji&theme=dark&show_icons=true&locale=en" alt="samyabrata-maji" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyabrata-maji&theme=dark" alt="samyabrata-maji" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammaji&langs_count=10&layout=compact&theme=dark" alt="sammaji" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sammaji&theme=dark&show_icons=true&locale=en" alt="sammaji" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammaji&theme=dark" alt="sammaji" /></p> -->
 <details>
   <summary><h2>Github Stats</h2></summary>
-  <p><img src="https://komarev.com/ghpvc/?username=samyabrata-maji&style=social"/>&ensp;</p>
-  <p><img src="https://img.shields.io/github/stars/samyabrata-maji?style=social"/>&ensp;<img src="https://img.shields.io/github/followers/samyabrata-maji?style=social"/></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyabrata-maji&langs_count=10&layout=compact&theme=dark" alt="samyabrata-maji" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyabrata-maji&theme=dark&show_icons=true&locale=en" alt="samyabrata-maji" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyabrata-maji&theme=dark" alt="samyabrata-maji" /></p>
+  <p><img src="https://komarev.com/ghpvc/?username=sammaji&style=social"/>&ensp;</p>
+  <p><img src="https://img.shields.io/github/stars/sammaji?style=social"/>&ensp;<img src="https://img.shields.io/github/followers/sammaji?style=social"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammaji&langs_count=10&layout=compact&theme=dark" alt="sammaji" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sammaji&theme=dark&show_icons=true&locale=en" alt="sammaji" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammaji&theme=dark" alt="sammaji" /></p>
   <a align="left" alt="sammaji15's GitHub | Stats" href="https://quine.sh?utm_source=widgets&utm_campaign=sammaji15"><img alt="sammaji15's GitHub | Stats" src="https://stats.quine.sh/sammaji15/github?theme=dark"/></a>
 <a align="right" alt="sammaji15's GitHub | Languages Over Time" href="https://quine.sh?utm_source=widgets&utm_campaign=sammaji15"><img alt="sammaji15's GitHub | Languages Over Time" src="https://stats.quine.sh/sammaji15/languages-over-time?theme=dark" /></a>
 </details>
